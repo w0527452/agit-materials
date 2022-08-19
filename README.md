@@ -1,6 +1,6 @@
 # Advanced Git: Materials
 
-Test
+Test 2
 
 This repo contains all the downloadable materials and projects associated with the **[Advanced Git](https://www.raywenderlich.com/books/advanced-git/)** from [raywenderlich.com](https://www.raywenderlich.com).
 
